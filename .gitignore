@@ -20,6 +20,7 @@ bld/
 # Roslyn cache directories
 *.ide/
 
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -73,6 +74,9 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+
+.vs/
+
 
 # TFS 2012 Local Workspace
 $tf/
